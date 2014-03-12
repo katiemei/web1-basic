@@ -5,3 +5,46 @@ body {
 	line-height: 1.5em;
 	color: #222;
 }
+
+.title {
+	font-family: 'Lato'; sans-serif;
+	font-size: 3em;
+	text-align: center;
+	color: #f1f1f1;
+}
+
+sup {
+	font-size: .6em;
+}
+
+h2 {
+	font-family: 'Lato'; sans-serif;
+	font-size: 3em;
+	line-height: 1em;
+	color: #222;
+	margin-bottom: .5em;
+	margin-top: .5em;
+}
+
+p {
+	font-family: 'Lato'; sans-serif;
+	font-size: 1.5em;
+	line-height: 1.5em;
+	color: #222;
+	margin-bottom: 1em;
+	
+}
+
+.footer {
+	font-family: 'Lato'; sans-serif;
+	font-size: 1.2em;
+	line-height: 1.1em;
+	color: #222;
+	margin-bottom: 1em;
+}
+
+.nav {
+	font-family: 'Lato'; sans-serif;
+	font-size: 2em;
+	line-height: 2;
+}
