@@ -79,10 +79,35 @@ li {
 
 .details {
 	text-align: left;
-	
 	}
-	
-.img {
-	background-image: url("img/men.jpg");
+
+.timelinecontainer {
+	margin-right: auto;
+	margin-bottom: 0em;
+	margin-left: auto;
+	width: 80%;
+	max-width: 1100px;
+	min-width: 650px;
+	padding-right: 5em;
+	padding-left: 5em;
+	padding-bottom: 0em;
+	border: 0px solid #eee;
+	margin-top: 2em;
 }
-	
+
+
+.timelinepic {
+	float: left;
+	padding-right: 2em;
+	padding-bottom: 1em;
+}
+
+.timelinehr{
+	margin-bottom: 4em;
+}
+
+.timelineright {
+	float: right;
+	padding-left: 2em;
+	padding-bottom: 1em;
+}

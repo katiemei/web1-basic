@@ -1,9 +1,3 @@
-.title {
-	font-family: 'Lato'; sans-serif;
-	font-size: 3em;
-	text-align: center;
-	color: #f1f1f1;
-}
 
 sup {
 	font-size: .6em;
@@ -59,6 +53,38 @@ a {
 	font-size: 1.5em;
 }
 
+.detailstimeline {
+	text-align: left;
+	font-family: Didot;
+	padding-top: 1em;
+	font-size: 2em;
+	line-height: .2em;
+}
+
+.details2timeline {
+	text-align: left;
+	font-family: Didot;
+	font-size: 1.5em;
+}
+
+.detailsright {
+	text-align: right;
+	font-family: Didot;
+	padding-top: 1em;
+	font-size: 2em;
+	line-height: .2em;
+}
+
+.details2right {
+	text-align: right;
+	font-family: Didot;
+	font-size: 1.5em;
+}
+
 h3 {
 	font-size: 1.5em;
+}
+
+.active {
+	color: #000;
 }
